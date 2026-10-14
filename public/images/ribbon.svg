@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="130" viewBox="0 0 110 130">
+  <path d="M35 70 L20 125 L37 113 L46 128 L55 80 Z" fill="#0033cc" stroke="#001a66"/>
+  <path d="M75 70 L90 125 L73 113 L64 128 L55 80 Z" fill="#0033cc" stroke="#001a66"/>
+  <g fill="#ffd700" stroke="#b8860b" stroke-width="1.5">
+    <circle cx="55" cy="50" r="42"/>
+  </g>
+  <circle cx="55" cy="50" r="33" fill="#fff8d0" stroke="#b8860b"/>
+  <text x="55" y="42" text-anchor="middle" font-family="Times New Roman, serif" font-weight="bold" font-size="12" fill="#800000">FAIRWAY</text>
+  <text x="55" y="56" text-anchor="middle" font-family="Times New Roman, serif" font-weight="bold" font-size="12" fill="#800000">FRIENDS</text>
+  <text x="55" y="70" text-anchor="middle" font-family="Times New Roman, serif" font-size="14" fill="#c00">★★★</text>
+</svg>

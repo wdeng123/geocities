@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff76a"/><stop offset="1" stop-color="#ff9a00"/>
+    </linearGradient>
+  </defs>
+  <text x="180" y="50" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-style="italic"
+        font-size="42" font-weight="bold" fill="url(#g)" stroke="#800000" stroke-width="1.5">
+    Tee Time!
+    <animate attributeName="fill-opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+  <g fill="#fff">
+    <circle cx="22" cy="35" r="5"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="338" cy="35" r="5"><animate attributeName="opacity" values="0;1;0" dur="0.9s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

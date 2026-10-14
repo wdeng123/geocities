@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="110" viewBox="0 0 120 110">
+  <ellipse cx="34" cy="102" rx="30" ry="6" fill="#2a8a2a"/>
+  <ellipse cx="34" cy="101" rx="9" ry="2.5" fill="#000"/>
+  <rect x="32" y="8" width="4" height="94" fill="#eeeeee" stroke="#888" stroke-width="0.5"/>
+  <circle cx="34" cy="7" r="4" fill="#ffd700"/>
+  <path fill="#ff2020" stroke="#900" stroke-width="1">
+    <animate attributeName="d" dur="0.8s" repeatCount="indefinite"
+      values="M36 12 Q60 4 84 14 Q100 20 112 14 L112 46 Q100 52 84 46 Q60 36 36 44 Z;
+              M36 12 Q60 20 84 12 Q100 6 112 16 L112 48 Q100 38 84 44 Q60 52 36 44 Z;
+              M36 12 Q60 4 84 14 Q100 20 112 14 L112 46 Q100 52 84 46 Q60 36 36 44 Z"/>
+  </path>
+  <text x="72" y="36" font-family="Times New Roman, serif" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">18</text>
+</svg>

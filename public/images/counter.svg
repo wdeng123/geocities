@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="22" viewBox="0 0 96 22">
+  <rect width="96" height="22" fill="#000" stroke="#888"/>
+  <g font-family="Courier New, monospace" font-size="17" font-weight="bold" fill="#00ff00" text-anchor="middle">
+    <text x="9" y="17">0</text><text x="25" y="17">0</text><text x="41" y="17">2</text><text x="57" y="17">4</text><text x="73" y="17">1</text><text x="89" y="17">7</text>
+  </g>
+  <g stroke="#333" stroke-width="1"><line x1="17" y1="0" x2="17" y2="22"/><line x1="33" y1="0" x2="33" y2="22"/><line x1="49" y1="0" x2="49" y2="22"/><line x1="65" y1="0" x2="65" y2="22"/><line x1="81" y1="0" x2="81" y2="22"/></g>
+</svg>
